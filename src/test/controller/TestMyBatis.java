@@ -3,7 +3,6 @@ package test.controller;
 import javax.annotation.Resource;
 
 import org.apache.log4j.Logger;
-import org.junit.Assert;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.test.context.ContextConfiguration;
